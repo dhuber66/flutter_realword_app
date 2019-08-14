@@ -13,7 +13,7 @@ We've gone to great lengths to adhere to the [Flutter](https://flutter.io/) comm
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
 
-# How it works
+# How it works NOW
 
 * Using [Flutter-ReduRx](https://github.com/leocavalcante/Flutter-ReduRx/) for managing State
 * Using [built_value.dart](https://github.com/google/built_value.dart) to serialize/deserialize Models
